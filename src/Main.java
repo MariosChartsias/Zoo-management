@@ -13,7 +13,7 @@ import Birds.Song_Sparrow.Song_Sparrow;
 import Mammals.Marsupials.Antechinus.Antechinus;
 import Mammals.Marsupials.Gliders.Gliders;
 import Mammals.Marsupials.Kangaroos.Kangaroos;
-import Mammals.Marsupials.Kangaroos.Opossums;
+import Mammals.Marsupials.Opossums.Opossums;
 import Mammals.Marsupials.Possums.Possums;
 import Mammals.Marsupials.Quolls.Quolls;
 import Mammals.Marsupials.Wombat.Wombat;
@@ -144,6 +144,7 @@ public class Main {
                             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("Animals.txt", false)));
                             out.println(Main.getFirst());
                             String line;
+                            out.close();
                             out = new PrintWriter(new BufferedWriter(new FileWriter("Animals.txt", true)));
                             for(i=0; i<Main.size(); i++) {
                                 out.println(Main.get(i));

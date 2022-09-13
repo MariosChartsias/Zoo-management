@@ -1,4 +1,4 @@
-package Mammals.Marsupials.Kangaroos;
+package Mammals.Marsupials.Opossums;
 import Mammals.Marsupials.Marsupials;
 import Mammals.IEatMammals;
 public final class Opossums extends Marsupials implements IEatMammals {
