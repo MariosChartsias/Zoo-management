@@ -256,7 +256,7 @@ public class Main {
         System.out.println("*  6.    AB4 Mammals/Marsupials/Opossums            *");
         System.out.println("*  7.    AB5 Mammals/Marsupials/Possums             *");
         System.out.println("*  8.    AB6 Mammals/Marsupials/Quolls              *");
-        System.out.println("*  9.   AB7 Mammals/Marsupials/Wombats             *");
+        System.out.println("*  9.    AB7 Mammals/Marsupials/Wombats             *");
         System.out.println("*  10.   AC1 Mammals/Placentals/Primates            *");
         System.out.println("*  11.   AC2 Mammals/Placentals/Bears               *");
         System.out.println("*  12.   AC3 Mammals/Placentals/Hoofed              *");
@@ -276,11 +276,11 @@ public class Main {
         System.out.println("*  26.   C02 Reptiles/Turtles                       *");
         System.out.println("*  27.   C03 Reptiles/Crocodilians                  *");
         System.out.println("*  28.   C04 Reptiles/Rhynchocephalians             *");
-        System.out.println("*  29.   B07 Amphibians/Frogs                       *");
-        System.out.println("*  30.   C01 Amphibians/Toads                       *");
-        System.out.println("*  31.   C02 Amphibians/Salamandres                 *");
-        System.out.println("*  32.   C03 Amphibians/Newts                       *");
-        System.out.println("*  33.   C04 Amphibians/Caecilians                  *");
+        System.out.println("*  29.   D01 Amphibians/Frogs                       *");
+        System.out.println("*  30.   D02 Amphibians/Toads                       *");
+        System.out.println("*  31.   D03 Amphibians/Salamandres                 *");
+        System.out.println("*  32.   D04 Amphibians/Newts                       *");
+        System.out.println("*  33.   D05 Amphibians/Caecilians                  *");
         System.out.println("*  0.    Exit                                       *");
         System.out.print("*   Your answer (1-33) or 0: ");
         int z = (new Scanner(System.in)).nextInt();
@@ -392,6 +392,7 @@ public class Main {
                 break;
         }
         w++;
+        System.out.println("Animal added!");
         out2.println(w);
         out.close(); //we do this because else that data will be lost in a buffer.
         out2.close(); //we do this because else that data will be lost in a buffer.

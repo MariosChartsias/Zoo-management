@@ -1,0 +1,3 @@
+unicode:C011, name:Alkion, age:15 years, weight:1.5 kg
+unicode:C052, name:Skion, age:5 years, weight:25 g
+unicode:C023, name:Aspor, age:10-80 years, weight:50 kg
