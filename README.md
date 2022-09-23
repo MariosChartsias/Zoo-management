@@ -6,13 +6,13 @@
 
 <hr>
 <br>
-<p align="center">This is the mainpage with name index.jsp<br>
+<p align="center">This is the representation of every class<br>
 
  <img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Zoo-management/main/images/Animals.jpg">
 <hr></p>
 
 <br>
-<p align="center">entity-relationship diagram <br><img width="400" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/ER%20diagram.jpg">
+<p align="center">That's the menu. Let's choose the 1st option and add an animal <br><img width="400" src="https://raw.githubusercontent.com/MariosChartsias/Zoo-management/main/images/1.jpg">
 <hr></p>
 
 
