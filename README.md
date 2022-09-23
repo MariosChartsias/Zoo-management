@@ -2,7 +2,7 @@
  
 <h5>Thats a basic implementation of Object oriented programming using Java. Every animal represented as a class and inherit features of parent classes.</h5>
 
-><span fill="red">Using java, javascript an mySQL</span><br>
+><span fill="red">Using only java Without GUI and saving results in a simple file .txt</span><br>
 
 <hr>
 <br>
