@@ -22,7 +22,7 @@
 <hr></p>
 <br>
 <p align="center">This is the list of animals in our zoo park. Every animal has the unique code.<br><img width="400" src="https://raw.githubusercontent.com/MariosChartsias/Zoo-management/main/images/4.jpg">
-<hr></p>
+</p>
 
 
  
